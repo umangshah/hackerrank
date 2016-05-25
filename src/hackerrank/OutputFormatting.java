@@ -5,7 +5,7 @@ import java.util.*;
  * HackerRank: Introduction: Java Output Formatting
  * Description: output formatting using printf 
  */
-public class outputFormatting {
+public class OutputFormatting {
 
 	public static void main(String []args)
 	{
